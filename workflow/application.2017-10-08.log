@@ -1,0 +1,14 @@
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1537 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@56aaaecd
+1747 [main] ERROR o.d.core.xml.ExtensibleXmlParser - (null: 40, 73): cvc-complex-type.2.4.b: The content of element 'drools:onEntry-script' is not complete. One of '{"http://www.jboss.org/drools":script}' is expected.
+1747 [main] ERROR o.d.core.xml.ExtensibleXmlParser - (null: 41, 72): cvc-complex-type.2.4.b: The content of element 'drools:onExit-script' is not complete. One of '{"http://www.jboss.org/drools":script}' is expected.
+2099 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2099 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2628 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2796 [main] WARN  o.j.w.i.node.AsyncEventNodeInstance - No async executor service found continuing as sync operation...

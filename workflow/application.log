@@ -1,0 +1,449 @@
+3375 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+3412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+3412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+3412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+3412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+3412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+3412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+3413 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@3e14c16d
+4699 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+4701 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+5391 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+5578 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+8440 [main] DEBUG java.lang.Thread - Application Properties Loaded
+9845 [main] ERROR java.lang.Thread - ERROR: operator does not exist: uuid = character varying
+  Hint: No operator matches the given name and argument type(s). You might need to add explicit type casts.
+  Where: PL/pgSQL function xaviertrans.fn_applicant_interview_info_insertupdate(integer,integer,uuid,character varying,character varying,character varying,text,smallint,timestamp without time zone,timestamp without time zone,character varying,smallint,timestamp without time zone) line 8 at SQL statement
+1595 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2249 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2252 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2862 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3010 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+4930 [main] DEBUG java.lang.Thread - Application Properties Loaded
+6223 [main] ERROR java.lang.Thread - ERROR: operator does not exist: uuid = character varying
+  Hint: No operator matches the given name and argument type(s). You might need to add explicit type casts.
+  Where: PL/pgSQL function xaviertrans.fn_applicant_interview_info_insertupdate(integer,integer,uuid,character varying,character varying,character varying,text,smallint,timestamp without time zone,timestamp without time zone,character varying,smallint,timestamp without time zone) line 8 at SQL statement
+1249 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1252 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1252 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1252 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1252 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1253 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1253 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1253 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1876 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1877 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2377 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2485 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+4344 [main] DEBUG java.lang.Thread - Application Properties Loaded
+5668 [main] ERROR java.lang.Thread - ERROR: operator does not exist: uuid = character varying
+  Hint: No operator matches the given name and argument type(s). You might need to add explicit type casts.
+  Where: PL/pgSQL function xaviertrans.fn_applicant_interview_info_insertupdate(integer,integer,uuid,character varying,character varying,character varying,text,smallint,timestamp without time zone,timestamp without time zone,character varying,smallint,timestamp without time zone) line 8 at SQL statement
+2058 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2061 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2062 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2062 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2062 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2063 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2063 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2063 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+2754 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2756 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+3421 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3564 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+5091 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+5107 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+5111 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Buffer.address: available
+5111 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+5112 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+5113 [main] DEBUG i.n.u.internal.PlatformDependent0 - direct buffer constructor: available
+5113 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+5113 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+5117 [main] DEBUG io.netty.util.internal.Cleaner0 - java.nio.ByteBuffer.cleaner(): available
+5117 [main] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+5118 [main] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+5118 [main] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+5119 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+5121 [main] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+5121 [main] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+5121 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\HEMANT~1.LAT\AppData\Local\Temp (java.io.tmpdir)
+5121 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+5121 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+5122 [main] DEBUG i.n.util.internal.PlatformDependent - io.netty.maxDirectMemory: 3790077952 bytes
+5122 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+5122 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+5122 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+5122 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+5122 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+5122 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+5122 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+5123 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+5123 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+5123 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+5123 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+5271 [main] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+5524 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+5525 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+5528 [main] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+6168 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 6636 (auto-detected)
+6172 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+6172 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+6543 [main] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+6544 [main] DEBUG io.netty.util.NetUtil - \proc\sys\net\core\somaxconn: 200 (non-existent)
+6892 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 3c:a9:f4:ff:fe:0a:e8:ec (auto-detected)
+7068 [main] DEBUG i.n.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x2fa8c01cb4a5a8f7
+7415 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+7415 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+7479 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+7480 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 65536
+7480 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+8550 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+8550 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+8551 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+8551 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+8576 [main] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.bytebuf.checkAccessible: true
+8577 [main] DEBUG i.n.u.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@f446158
+19621 [threadDeathWatcher-2-1] DEBUG io.netty.buffer.PoolThreadCache - Freed 2784 thread-local buffer(s) from thread: threadDeathWatcher-2-1
+21878 [main] DEBUG java.lang.Thread - Application Properties Loaded
+28834 [main] ERROR java.lang.Thread - operator does not exist: uuid = character varying
+1671 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1676 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1677 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1677 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1677 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1677 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1677 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1677 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+2234 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2236 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2843 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3029 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+20667 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+20685 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+20688 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Buffer.address: available
+20689 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+20690 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+20691 [main] DEBUG i.n.u.internal.PlatformDependent0 - direct buffer constructor: available
+20692 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+20693 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+20694 [main] DEBUG io.netty.util.internal.Cleaner0 - java.nio.ByteBuffer.cleaner(): available
+20695 [main] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+20696 [main] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+20696 [main] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+20697 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+20699 [main] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+20699 [main] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+20699 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\HEMANT~1.LAT\AppData\Local\Temp (java.io.tmpdir)
+20699 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+20700 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+20700 [main] DEBUG i.n.util.internal.PlatformDependent - io.netty.maxDirectMemory: 3790077952 bytes
+20700 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+20700 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+20700 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+20700 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+20700 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+20700 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+20701 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+20701 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+20701 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+20701 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+20701 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+20732 [main] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+20823 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+20823 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+20827 [main] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+20902 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 4524 (auto-detected)
+20906 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+20906 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+21529 [main] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+21530 [main] DEBUG io.netty.util.NetUtil - \proc\sys\net\core\somaxconn: 200 (non-existent)
+21965 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 3c:a9:f4:ff:fe:0a:e8:ec (auto-detected)
+21969 [main] DEBUG i.n.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x09bccef2cca0d208
+21982 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+21983 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+21998 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+21998 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 65536
+21998 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+22195 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+22195 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+22195 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+22195 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+22217 [main] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.bytebuf.checkAccessible: true
+22219 [main] DEBUG i.n.u.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@79ba0a6f
+29227 [threadDeathWatcher-2-1] DEBUG io.netty.buffer.PoolThreadCache - Freed 2784 thread-local buffer(s) from thread: threadDeathWatcher-2-1
+31553 [main] DEBUG java.lang.Thread - Application Properties Loaded
+98399 [main] ERROR java.lang.Thread - operator does not exist: uuid = character varying
+1669 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1674 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1674 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1675 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1675 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1675 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1675 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+1675 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@534243e4
+2303 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2306 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2899 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3068 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+3686 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+3705 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+3709 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Buffer.address: available
+3710 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+3711 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+3712 [main] DEBUG i.n.u.internal.PlatformDependent0 - direct buffer constructor: available
+3714 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+3714 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+3716 [main] DEBUG io.netty.util.internal.Cleaner0 - java.nio.ByteBuffer.cleaner(): available
+3717 [main] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+3718 [main] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+3718 [main] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+3719 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+3720 [main] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+3720 [main] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+3721 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\HEMANT~1.LAT\AppData\Local\Temp (java.io.tmpdir)
+3721 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+3723 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+3723 [main] DEBUG i.n.util.internal.PlatformDependent - io.netty.maxDirectMemory: 3790077952 bytes
+3723 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+3724 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+3724 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+3724 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+3724 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+3724 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+3724 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+3724 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+3725 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+3725 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+3725 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+3758 [main] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+3813 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+3814 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+3817 [main] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+3890 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 6160 (auto-detected)
+3893 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+3893 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+4341 [main] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+4343 [main] DEBUG io.netty.util.NetUtil - \proc\sys\net\core\somaxconn: 200 (non-existent)
+4768 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 3c:a9:f4:ff:fe:0a:e8:ec (auto-detected)
+4772 [main] DEBUG i.n.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xd5285751c03206a8
+4791 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+4791 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+4808 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+4808 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 65536
+4808 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+4959 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+4960 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+4960 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+4960 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+4975 [main] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.bytebuf.checkAccessible: true
+4978 [main] DEBUG i.n.u.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@79ba0a6f
+11019 [threadDeathWatcher-2-1] DEBUG io.netty.buffer.PoolThreadCache - Freed 2784 thread-local buffer(s) from thread: threadDeathWatcher-2-1
+13838 [main] DEBUG java.lang.Thread - Application Properties Loaded
+26920 [main] ERROR java.lang.Thread - operator does not exist: uuid = character varying
+1436 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1442 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1442 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1442 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1442 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1442 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1443 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1443 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1974 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1975 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2482 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2613 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+3099 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+3114 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+3117 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Buffer.address: available
+3118 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+3119 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+3120 [main] DEBUG i.n.u.internal.PlatformDependent0 - direct buffer constructor: available
+3121 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+3121 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+3122 [main] DEBUG io.netty.util.internal.Cleaner0 - java.nio.ByteBuffer.cleaner(): available
+3123 [main] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+3124 [main] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+3124 [main] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+3124 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+3125 [main] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+3126 [main] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+3126 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\HEMANT~1.LAT\AppData\Local\Temp (java.io.tmpdir)
+3126 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+3126 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+3127 [main] DEBUG i.n.util.internal.PlatformDependent - io.netty.maxDirectMemory: 3790077952 bytes
+3127 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+3127 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+3127 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+3127 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+3127 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+3127 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+3127 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+3128 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+3128 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+3128 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+3128 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+3154 [main] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+3181 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+3182 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+3186 [main] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+3256 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 7564 (auto-detected)
+3260 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+3260 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+3695 [main] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+3696 [main] DEBUG io.netty.util.NetUtil - \proc\sys\net\core\somaxconn: 200 (non-existent)
+4155 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 3c:a9:f4:ff:fe:0a:e8:ec (auto-detected)
+4158 [main] DEBUG i.n.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xc06e65da54ce140a
+4174 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+4174 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+4191 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+4191 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 65536
+4191 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+4342 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+4342 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+4342 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+4342 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+4357 [main] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.bytebuf.checkAccessible: true
+4359 [main] DEBUG i.n.u.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3730ab42
+10351 [threadDeathWatcher-2-1] DEBUG io.netty.buffer.PoolThreadCache - Freed 2783 thread-local buffer(s) from thread: threadDeathWatcher-2-1
+12521 [main] DEBUG java.lang.Thread - Application Properties Loaded
+18259 [main] ERROR java.lang.Thread - operator does not exist: uuid = character varying
+1451 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1456 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1456 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1456 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1456 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1456 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1457 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1457 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1988 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1989 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2619 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2756 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+3250 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+3268 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+3272 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Buffer.address: available
+3273 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+3274 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+3275 [main] DEBUG i.n.u.internal.PlatformDependent0 - direct buffer constructor: available
+3276 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+3276 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+3278 [main] DEBUG io.netty.util.internal.Cleaner0 - java.nio.ByteBuffer.cleaner(): available
+3279 [main] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+3280 [main] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+3280 [main] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+3280 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+3282 [main] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+3282 [main] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+3282 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\HEMANT~1.LAT\AppData\Local\Temp (java.io.tmpdir)
+3282 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+3282 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+3283 [main] DEBUG i.n.util.internal.PlatformDependent - io.netty.maxDirectMemory: 3790077952 bytes
+3283 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+3283 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+3283 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+3283 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+3283 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+3283 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+3284 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+3284 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+3284 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+3284 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+3284 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+3310 [main] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+3344 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+3345 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+3347 [main] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+3454 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 7428 (auto-detected)
+3457 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+3457 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+4054 [main] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+4056 [main] DEBUG io.netty.util.NetUtil - \proc\sys\net\core\somaxconn: 200 (non-existent)
+4478 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 3c:a9:f4:ff:fe:0a:e8:ec (auto-detected)
+4482 [main] DEBUG i.n.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xa504bcecb12d1b9c
+4495 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+4495 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+4507 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+4507 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 65536
+4507 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+4641 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+4641 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+4641 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+4641 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+4651 [main] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.bytebuf.checkAccessible: true
+4652 [main] DEBUG i.n.u.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3730ab42
+10674 [threadDeathWatcher-2-1] DEBUG io.netty.buffer.PoolThreadCache - Freed 2782 thread-local buffer(s) from thread: threadDeathWatcher-2-1
+12474 [main] DEBUG java.lang.Thread - Application Properties Loaded
+18032 [main] ERROR java.lang.Thread - operator does not exist: uuid = character varying
+1489 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1493 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1493 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1493 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1493 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1493 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1493 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1493 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@47c4ecdc
+1965 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1966 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2481 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2613 [main] INFO  java.lang.Thread - com.hw.process.montage.ApplicantStatusFromMontageInit Service Handler
+3090 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+3104 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+3107 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Buffer.address: available
+3108 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+3108 [main] DEBUG i.n.u.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+3109 [main] DEBUG i.n.u.internal.PlatformDependent0 - direct buffer constructor: available
+3110 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+3110 [main] DEBUG i.n.u.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+3111 [main] DEBUG io.netty.util.internal.Cleaner0 - java.nio.ByteBuffer.cleaner(): available
+3112 [main] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+3114 [main] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+3115 [main] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+3115 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+3116 [main] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+3116 [main] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+3116 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\HEMANT~1.LAT\AppData\Local\Temp (java.io.tmpdir)
+3117 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+3117 [main] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+3117 [main] DEBUG i.n.util.internal.PlatformDependent - io.netty.maxDirectMemory: 3790077952 bytes
+3117 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+3118 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+3118 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+3118 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+3119 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+3119 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+3119 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+3119 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+3119 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+3119 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+3119 [main] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+3151 [main] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+3208 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+3208 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+3211 [main] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+3285 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 8020 (auto-detected)
+3289 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+3289 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+3796 [main] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+3797 [main] DEBUG io.netty.util.NetUtil - \proc\sys\net\core\somaxconn: 200 (non-existent)
+4215 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 3c:a9:f4:ff:fe:0a:e8:ec (auto-detected)
+4218 [main] DEBUG i.n.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x544c7ef6a60423c8
+4236 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+4236 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+4255 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+4255 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 65536
+4255 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+4414 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 32768
+4415 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+4415 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+4415 [main] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+4426 [main] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.bytebuf.checkAccessible: true
+4428 [main] DEBUG i.n.u.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3730ab42
+10454 [threadDeathWatcher-2-1] DEBUG io.netty.buffer.PoolThreadCache - Freed 2782 thread-local buffer(s) from thread: threadDeathWatcher-2-1
+13132 [main] DEBUG java.lang.Thread - Application Properties Loaded

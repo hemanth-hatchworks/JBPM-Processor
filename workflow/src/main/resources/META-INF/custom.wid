@@ -1,0 +1,44 @@
+import org.drools.process.core.datatype.impl.type.StringDataType;
+import org.drools.process.core.datatype.impl.type.ObjectDataType;
+
+[
+
+  [
+    "name" : "Rest",
+    "parameters" : [
+        "Url" : new StringDataType(),
+        "Method" : new StringDataType(),
+        "ConnectTimeout" : new StringDataType(),
+        "ReadTimeout" : new StringDataType(),
+        "Username" : new StringDataType(),
+        "Password" : new StringDataType()
+    ],
+    "results" : [
+        "Result" : new ObjectDataType(),
+    ],
+    "displayName" : "Rest",
+    "defaultHandler" : "org.jbpm.process.workitem.rest.RESTWorkItemHandler",
+    "icon" : "defaultservicenodeicon.png"
+  ]
+
+
+  
+  
+  
+    [
+    "name" : "WorkItemHandler",
+    "description" : "Invoke Work Item Handler",
+    "version" : "1.0",
+    "parameters" : [
+    	"json" : new StringDataType()
+    ],
+    "displayName" : "WorkItem Invocation - Montage",
+    "category" : "WorkItem",
+    "defaultHandler" : "com.hw.process.montage.ApplicantStatusFromMontage",
+    "dependencies" : [
+    ]
+  ]
+  
+  
+
+]

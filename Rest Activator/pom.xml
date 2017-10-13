@@ -6,7 +6,7 @@
 	<groupId>com.proxy.service</groupId>
 	<artifactId>restactivator</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>OAuth2 JSON Marshaler</name>
 	<description>JSON-Marshaling Data Broker with Security and OAuth2 Authentication</description>
@@ -102,6 +102,7 @@
 				<!-- <configuration> <executable>true</executable> </configuration> -->
 			</plugin>
 		</plugins>
+		<finalName>activator</finalName>
 	</build>
 
 

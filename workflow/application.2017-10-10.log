@@ -1,0 +1,436 @@
+2041 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2055 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2055 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2055 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2056 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2056 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2056 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2056 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7bb6ab3a
+2915 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2918 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+3554 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3697 [main] INFO  java.lang.Thread - Init Service Handler
+1406 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1412 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1413 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1413 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1413 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1961 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1963 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2489 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2610 [main] INFO  java.lang.Thread - Init Service Handler
+1593 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1598 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1598 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1598 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1598 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1598 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1598 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1598 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+2108 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2110 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2648 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2766 [main] INFO  java.lang.Thread - Init Service Handler
+1532 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1538 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1539 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1539 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1539 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1539 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1539 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1539 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2173 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2175 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2717 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2869 [main] INFO  java.lang.Thread - Init Service Handler
+1570 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1575 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1575 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1575 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1576 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1576 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1576 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1576 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2151 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2153 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2724 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2873 [main] INFO  java.lang.Thread - Init Service Handler
+1515 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1522 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1522 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1522 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1523 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1523 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1523 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1523 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2113 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2115 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2647 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2798 [main] INFO  java.lang.Thread - Init Service Handler
+1600 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1606 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2323 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2326 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+3184 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3377 [main] INFO  java.lang.Thread - Init Service Handler
+1603 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1608 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1608 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1608 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1608 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1608 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1609 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1609 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2221 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2222 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2784 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2933 [main] INFO  java.lang.Thread - Init Service Handler
+1624 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1630 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1631 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1631 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1631 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1631 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1631 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1631 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2288 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2291 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+3217 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3423 [main] INFO  java.lang.Thread - Init Service Handler
+2166 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2171 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2171 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2171 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2172 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2172 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2172 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2172 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+2989 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2990 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+3514 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+1420 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1444 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1444 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1444 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1445 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1445 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1445 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1445 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1977 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1979 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2497 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+1468 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1494 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1495 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1495 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1495 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1495 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1495 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+1495 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@7f4037ed
+2041 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2042 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2619 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+1320 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1323 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1324 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1324 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1324 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1324 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1324 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1324 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1814 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1816 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2341 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+1296 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1298 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1298 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1299 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1299 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1299 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1299 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1299 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1800 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1801 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2324 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2466 [main] INFO  java.lang.Thread - Init Service Handler
+1304 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1308 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1308 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1308 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1308 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1308 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1308 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1308 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1793 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1795 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2275 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+1266 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1271 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1750 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1751 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2221 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+1280 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1284 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1284 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1284 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1284 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1285 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1285 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1285 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@435fb7b5
+1767 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1768 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2233 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+1298 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1301 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1302 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1302 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1302 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1302 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1302 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1302 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1787 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1788 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2256 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2383 [main] INFO  java.lang.Thread - Init Service Handler
+1282 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1286 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1287 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1287 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1287 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1287 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1287 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1288 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1786 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1787 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2249 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2367 [main] INFO  java.lang.Thread - Init Service Handler
+1313 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1318 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1318 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1318 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1318 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1319 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1319 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1319 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1813 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1814 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2291 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2414 [main] INFO  java.lang.Thread - Init Service Handler
+1439 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1462 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1463 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1463 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1463 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1463 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1463 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1464 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2009 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2011 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2510 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2675 [main] INFO  java.lang.Thread - Init Service Handler
+1254 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1257 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1257 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1257 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1257 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1257 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1257 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1258 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1748 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1750 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2246 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2375 [main] INFO  java.lang.Thread - Init Service Handler
+1266 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1271 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1272 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1740 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1741 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2212 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2338 [main] INFO  java.lang.Thread - Init Service Handler
+1466 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1507 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1507 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1508 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1508 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1508 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1508 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1508 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2050 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2052 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2577 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2742 [main] INFO  java.lang.Thread - Init Service Handler
+1484 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1489 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1489 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1489 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1489 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1490 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1490 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1490 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2013 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2015 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2526 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2673 [main] INFO  java.lang.Thread - Init Service Handler
+1473 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1496 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1496 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1496 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1496 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1496 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1496 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+1496 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@64040287
+2043 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2045 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2555 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2722 [main] INFO  java.lang.Thread - Init Service Handler
+1241 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1246 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1246 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1246 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1246 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1247 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1247 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1247 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1735 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1737 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2215 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2339 [main] INFO  java.lang.Thread - Init Service Handler
+1322 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1325 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1326 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1326 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1326 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1326 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1326 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1326 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1809 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1810 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2257 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2380 [main] INFO  java.lang.Thread - Init Service Handler
+2667 [main] ERROR java.lang.Thread - Cannot create JDBC driver of class '' for connect URL 'jdbc:p6spy:pgsql://10.33.129.44:5432/xaviertrans'
+1241 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1246 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1246 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1246 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1247 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1247 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1247 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1247 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@b7838a9
+1733 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1734 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2178 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2307 [main] INFO  java.lang.Thread - Init Service Handler
+2572 [main] ERROR java.lang.Thread - Cannot create JDBC driver of class '' for connect URL 'jdbc:postgresql://10.33.129.44:5432/xaviertrans'
+1215 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1220 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1220 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1220 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1220 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1220 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1220 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1221 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1698 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1699 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2171 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2298 [main] INFO  java.lang.Thread - Init Service Handler
+12627 [main] ERROR java.lang.Thread - Cannot create PoolableConnectionFactory (The connection attempt failed.)
+1591 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1607 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+2462 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2462 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2992 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+3274 [main] INFO  java.lang.Thread - Init Service Handler
+13960 [main] ERROR java.lang.Thread - Cannot create PoolableConnectionFactory (The connection attempt failed.)
+1356 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1360 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1360 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1360 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1360 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1360 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1361 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1361 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1865 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1867 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2415 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2556 [main] INFO  java.lang.Thread - com.hw.process.montage.ServiceInit Service Handler
+4363 [main] ERROR java.lang.Thread - The column index is out of range: 1, number of columns: 0.
+1345 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1350 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1351 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1351 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1351 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1351 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1351 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1351 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1867 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1869 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2408 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2528 [main] INFO  java.lang.Thread - com.hw.process.montage.ServiceInit Service Handler
+2528 [main] INFO  java.lang.Thread - Init Service Handler
+4177 [main] ERROR java.lang.Thread - The column index is out of range: 1, number of columns: 0.
+1374 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1378 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1378 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1378 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1378 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1378 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1378 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1378 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1880 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1882 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2390 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2521 [main] INFO  java.lang.Thread - com.hw.process.montage.ServiceInit Service Handler
+2521 [main] INFO  java.lang.Thread - com.hw.process.montage.Service : Init Service Handler
+4123 [main] ERROR java.lang.Thread - The column index is out of range: 1, number of columns: 0.
+1510 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1515 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1515 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1515 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1515 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1515 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1516 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1516 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+2128 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+2131 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2645 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2762 [main] INFO  java.lang.Thread - com.hw.process.montage.ServiceInit Service Handler
+4484 [main] ERROR java.lang.Thread - The column index is out of range: 1, number of columns: 0.
+1341 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1344 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/Nashorn with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1345 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/js with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1345 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JS with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1345 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/JavaScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1345 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/javascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1345 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ECMAScript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1345 [main] DEBUG o.j.p.c.i.DataTransformerRegistry - Registered scripting language http://www.java.com/ecmascript with instance org.jbpm.process.core.transformation.JavaScriptingDataTransformer@5733f295
+1863 [main] INFO  o.d.c.k.b.impl.KieRepositoryImpl - KieModule was added: MemoryKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT]
+1864 [main] DEBUG o.d.c.k.b.impl.KieRepositoryImpl - Cannot load a KieRepositoryScanner, using the DummyKieScanner
+2385 [main] DEBUG o.d.core.impl.KnowledgeBaseImpl - Starting Engine in PHREAK mode
+2511 [main] INFO  java.lang.Thread - com.hw.process.montage.ServiceInit Service Handler
+4091 [main] ERROR java.lang.Thread - The column index is out of range: 1, number of columns: 0.
